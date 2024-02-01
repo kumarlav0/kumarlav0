@@ -17,12 +17,12 @@
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fkumarstslav.blogspot.com%2F)](https://kumarstslav.blogspot.com/)
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftoletnetworks.com%2F)](https://toletnetworks.com/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fkumarlav.netlify.app%2F)](https://kumarlav.netlify.app/)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://toletnetworks.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://toletnetworks.com/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://kumarlav.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://kumarlav.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/c/TourWELL#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/c/TourWELL#gh-dark-mode-only)
@@ -48,7 +48,7 @@
 </p>
 
 [website]: https://kumarstslav.blogspot.com/
-[website]: https://toletnetworks.com/
+[website]: https://kumarlav.netlify.app/
 [twitter]: https://twitter.com/kumarstslav
 [youtube]: https://www.youtube.com/c/TourWELL
 [youtube]: https://www.youtube.com/c/KumarLav
